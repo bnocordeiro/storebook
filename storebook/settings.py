@@ -25,7 +25,7 @@ SECRET_KEY = "django-insecure-bivd=1lr##hc9#_xf(tf1nvr^xt2-_z+fu)om+58pqg%ij0akr
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['localhost', '127.0.0.1', 'https://ebac-storebook-api-b7cb074284e8.herokuapp.com']
+ALLOWED_HOSTS = ['localhost', '127.0.0.1', 'ebac-storebook-api-b7cb074284e8.herokuapp.com']
 
 
 # Application definition
